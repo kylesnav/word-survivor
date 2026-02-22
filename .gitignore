@@ -1,0 +1,21 @@
+# Backup files
+version-history/
+*.bak
+
+# Playwright test artifacts
+.playwright-mcp/
+node_modules/
+test-results/
+playwright-report/
+
+# Conductor workspace
+.context/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
