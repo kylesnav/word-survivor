@@ -4,10 +4,6 @@ Type words. Kill enemies. Survive.
 
 **[Play now at wordsurvivor.com](https://wordsurvivor.com)**
 
-## Screenshot
-
-![Word Survivor Gameplay](screenshot.png)
-
 ## What is this?
 
 Word Survivor is a typing survival game. Enemies swarm you, each carrying a word — type it to fire a projectile and take them out. Chain words fast for combo damage, collect items with stacking synergies, level up between waves, and see how long you last.
